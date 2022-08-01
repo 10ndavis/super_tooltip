@@ -1,12 +1,12 @@
 name: super_tooltip
 description: Super flexible Tooltip class that gets opend in the screens overlay
-version: 1.0.2
+version: 1.0.3
 author: Thomas Burkhart <burkhartsengineering@gmail.com>
 homepage: https://github.com/escamoteur/super_tooltip
 
-
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  flutter: ">=3.0.0"
+  sdk: '>=2.17.0 <3.0.0'
 
 dependencies:
   flutter:
